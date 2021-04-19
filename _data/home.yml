@@ -6,7 +6,7 @@ navbar_entries:
   - title: website
     url: 'https://www.abhinav.co'
 project_entries:
-  - title: Predicting HR Analytics of hirnig data scientists
+  - title: Predicting HR Analytics of hiring data scientists
     url: overview-post
     desc: 'This is an example project, configured in _data/home.yml'
   - title: Project 2
