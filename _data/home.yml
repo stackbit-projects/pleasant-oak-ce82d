@@ -18,6 +18,7 @@ project_entries:
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
+    highlight: WIP
   - title: Predicting telecom churn
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%204-%20Predicting%20telecom%20churn.ipynb
