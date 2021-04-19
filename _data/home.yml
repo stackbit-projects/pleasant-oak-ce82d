@@ -37,7 +37,8 @@ project_entries:
       This project focuses on the class system and predicting deaths of titanic
       passengers
   - title: Predicting text classifications using Neural Networks
-    url: lorem-ipsum
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%208-%20Predicting%20Text%20Classifications%20using%20Neural%20Network.ipynb
     desc: lorem-ipsum
     highlight: lorem-ipsum
 old_project_entries:
