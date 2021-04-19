@@ -28,7 +28,7 @@ project_entries:
   - title: Predicting Covid Deaths
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%205-%20Predicting%20Covid%20Deaths.ipynb
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: This project predicts the frequency of covid deaths from confirmed cases.
     highlight: WIP
   - title: Project 6
     url: overview-post
