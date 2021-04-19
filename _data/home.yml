@@ -25,7 +25,7 @@ project_entries:
       This project focuses on multiple demographic constructs to determine if a
       customer has a propensity to churn or not.
     highlight: WIP
-  - title: 'Predicting '
+  - title: Predicting Covid Deaths
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
