@@ -50,9 +50,6 @@ old_project_entries:
   - title: Cookie
     url: 'https://github.com/abhinavs/cookie'
     desc: An open source landing website with supporting pages and integrated blog
-  - title: Moonwalk
-    url: 'https://github.com/abhinavs/moonwalk'
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 footer_entries:
   - title: abhinav's homepage
     url: 'https://www.abhinav.co'
