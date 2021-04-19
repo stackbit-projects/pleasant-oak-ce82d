@@ -40,7 +40,7 @@ project_entries:
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%208-%20Predicting%20Text%20Classifications%20using%20Neural%20Network.ipynb
     desc: >-
-      The purpose of this project is to utilize Keras neural networkin to
+      The purpose of this project is to utilize Keras neural networking to
       predict text classifications
     highlight: lorem-ipsum
 old_project_entries:
