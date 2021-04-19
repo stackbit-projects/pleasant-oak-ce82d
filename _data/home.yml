@@ -53,8 +53,6 @@ old_project_entries:
 footer_entries:
   - title: Joseph's homepage
     url: 'https://github.com/Josef9154'
-  - title: feed
-    url: feed.xml
 misc_entries:
   - title: this is an example vertical list
     url: false
