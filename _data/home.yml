@@ -42,7 +42,6 @@ project_entries:
     desc: >-
       The purpose of this project is to utilize Keras neural networking to
       predict text classifications
-    highlight: lorem-ipsum
 old_project_entries:
   - title: Soopr
     url: 'https://www.soopr.co'
