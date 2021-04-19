@@ -21,7 +21,9 @@ project_entries:
   - title: Predicting telecom churn
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%204-%20Predicting%20telecom%20churn.ipynb
-    desc: 'This project focuses on multiple demographic constructs to determine '
+    desc: >-
+      This project focuses on multiple demographic constructs to determine if a
+      customer has a propensity to churn or not.
     highlight: WIP
   - title: Project 5
     url: overview-post
