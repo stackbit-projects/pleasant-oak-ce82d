@@ -26,7 +26,6 @@ project_entries:
     desc: >-
       This project focuses on multiple demographic constructs to determine if a
       customer has a propensity to churn or not.
-    highlight: WIP
   - title: Predicting Covid Deaths
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%205-%20Predicting%20Covid%20Deaths.ipynb
