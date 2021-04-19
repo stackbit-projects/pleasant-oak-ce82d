@@ -33,7 +33,9 @@ project_entries:
   - title: Predicting Titanic deaths by classification modeling
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%207-%20Predicting%20Titanic%20deaths%20by%20class%20systems.ipynb
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: >-
+      This project focuses on the class system and predicting deaths of
+      titantic 
 old_project_entries:
   - title: Soopr
     url: 'https://www.soopr.co'
