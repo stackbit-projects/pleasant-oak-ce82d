@@ -1,8 +1,7 @@
 navbar_entries:
   - title: about
     url: about
-  - title: blog
-    url: blog
+  - url: blog
   - title: website
     url: 'https://www.abhinav.co'
 project_entries:
