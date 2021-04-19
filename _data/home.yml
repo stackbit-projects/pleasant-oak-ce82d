@@ -9,7 +9,9 @@ project_entries:
   - title: Predicting HR Analytics of hiring data scientists
     url: >-
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%201-%20Predicting%20HR%20analytics%20of%20data%20scientist.ipynb
-    desc: 'This is an example project, configured in _data/home.yml'
+    desc: >-
+      This project focuses on hiring success factors for hiring data scientists
+      with 
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
