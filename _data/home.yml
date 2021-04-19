@@ -15,6 +15,7 @@ project_entries:
   - title: Predicting Heart Attacks
     url: overview-post
     desc: Will be adding soon
+    highlight: WIP
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
