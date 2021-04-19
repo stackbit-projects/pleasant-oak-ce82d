@@ -36,6 +36,10 @@ project_entries:
     desc: >-
       This project focuses on the class system and predicting deaths of titanic
       passengers
+  - title: lorem-ipsum
+    url: lorem-ipsum
+    desc: lorem-ipsum
+    highlight: lorem-ipsum
 old_project_entries:
   - title: Soopr
     url: 'https://www.soopr.co'
