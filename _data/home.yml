@@ -31,7 +31,8 @@ project_entries:
     desc: This project predicts the frequency of covid deaths from confirmed cases.
     highlight: WIP
   - title: Predicting Titanic deaths by classification modeling
-    url: overview-post
+    url: >-
+      https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%207-%20Predicting%20Titanic%20deaths%20by%20class%20systems.ipynb
     desc: It also has a scalable vertical list (in case you need it)
 old_project_entries:
   - title: Soopr
