@@ -14,7 +14,7 @@ project_entries:
       with classification modeling
   - title: Predicting Heart Attacks
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Will be adding soon
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
