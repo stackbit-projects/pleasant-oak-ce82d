@@ -53,9 +53,6 @@ old_project_entries:
   - title: Moonwalk
     url: 'https://github.com/abhinavs/moonwalk'
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
-  - title: Humangous
-    url: 'https://www.humangous.co'
-    desc: 'The better people know you, the better they collaborate'
 footer_entries:
   - title: abhinav's homepage
     url: 'https://www.abhinav.co'
