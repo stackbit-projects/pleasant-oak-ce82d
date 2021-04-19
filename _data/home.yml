@@ -2,6 +2,7 @@ navbar_entries:
   - title: about
     url: about
   - title: website
+    url: 'https://github.com/Josef9154/Portfolio-Examples'
 project_entries:
   - title: Predicting HR Analytics of hiring data scientists
     url: >-
