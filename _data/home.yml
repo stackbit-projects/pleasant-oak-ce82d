@@ -54,8 +54,6 @@ footer_entries:
   - title: Joseph's homepage
     url: 'https://github.com/Josef9154'
 misc_entries:
-  - title: this is an example vertical list
-    url: false
   - title: you can show or hide using a boolean flag in _config.yml
     url: false
   - title: and you can add data in _data/home.yml
