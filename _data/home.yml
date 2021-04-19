@@ -11,7 +11,7 @@ project_entries:
       https://github.com/Josef9154/Portfolio-Examples/blob/main/Project%201-%20Predicting%20HR%20analytics%20of%20data%20scientist.ipynb
     desc: >-
       This project focuses on hiring success factors for hiring data scientists
-      with 
+      with classificaiton modeling
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
